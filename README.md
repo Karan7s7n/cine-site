@@ -58,5 +58,5 @@ This project demonstrates:
 ---
 
 ## 👨‍💻 Developer
-
+Karan Singh Negi
 Developed with passion for cinema-inspired digital experiences.
